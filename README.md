@@ -17,7 +17,7 @@ This project explores the potential of EEG-based motor imagery (MI) control for 
 ## How to Use:
 
 1. **Install Dependencies:**  Install the required libraries 
-2. **Download EEG Data:** Download the EEG dataset from [link to dataset].
+2. **Download EEG Data:** Download the EEG dataset from [(http://bnci-horizon-2020.eu/database/data-sets)] Take Sl.no 25 and an individual file from it
 4. **Run the Script:** Run the `Code_python_bci.py` script to:
     * Train a machine learning model.
     * Classify new EEG data.

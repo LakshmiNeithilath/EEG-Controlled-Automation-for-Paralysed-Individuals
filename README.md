@@ -22,7 +22,7 @@ This project explores the potential of EEG-based motor imagery (MI) control for 
     * Train a machine learning model.
     * Classify new EEG data.
     * Generate control signals to send to an Arduino.
-5. **Run the Automation script on Arduino IDE **
+5. **Run the Automation script on Arduino IDE**
 
 ## Contributions:
 
